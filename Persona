@@ -1,6 +1,6 @@
 // indice falso = vuoto
 // indice vero = pieno
-// richiamare getter dell'indice con "isIndice()"  .......
+// richiamare getter dell'indice con "isIndice()"
 
 import java.util.Objects;
 
